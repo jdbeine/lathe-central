@@ -1,1 +1,10 @@
 [1508275047] 2017-10-17 17:17:27 - lathe-central **Event: Building lathe-central from project-master
+[1508275057] 2017-10-17 17:17:37 - lathe-central **Event: Git initialized and pushed to github.
+[1508275075] 2017-10-17 17:17:55 - lathe-central **Event: Created developmedbnt and test databases on postgresql.
+[1508275083] 2017-10-17 17:18:03 - lathe-central **Event: Controller generated for welcome
+[1508275088] 2017-10-17 17:18:08 - lathe-central **Event: Scaffold generated for Post
+[1508275088] 2017-10-17 17:18:08 - lathe-central **Event: Switched to project folder.
+[1508275093] 2017-10-17 17:18:13 - lathe-central **Event: Switched to project folder.
+[1508275101] 2017-10-17 17:18:21 - lathe-central **Event: Switched to project folder.
+[1508275105] 2017-10-17 17:18:25 - lathe-central **Event: Deploying lathe-central to heroku.
+[1508275105] 2017-10-17 17:18:25 - lathe-central **Event: Switched to project folder.
